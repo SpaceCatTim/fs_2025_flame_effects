@@ -1,0 +1,10 @@
+Network: 18
+
+Addresses:
+
+Remote:       1
+Flame effect: 2
+Backup_1:     3
+Heartrate:    4
+Pedals:       5
+Void:         6
